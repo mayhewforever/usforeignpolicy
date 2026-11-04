@@ -1,0 +1,1 @@
+.course-switcher{display:flex;flex-wrap:wrap;gap:10px;margin:0;font-size:14px}.course-switcher a{display:inline-flex;min-height:44px;align-items:center;color:inherit;text-underline-offset:4px}.course-switcher a:focus-visible{outline:3px solid #087e9a;outline-offset:4px}

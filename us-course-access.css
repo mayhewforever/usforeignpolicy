@@ -1,0 +1,33 @@
+/* Shared academic identity with Public Diplomacy; official Hitit 2025 palette. */
+:root{--red:#9a1a2f;--hitit-burgundy:#9a1a2f;--hitit-dark:#7f0018;--hitit-gold:#ac9058;--paper:#f7f5f4}
+body{border-top:4px solid var(--hitit-burgundy)}
+header{gap:24px;flex-wrap:wrap;padding-block:15px}
+header .brand{gap:12px;min-width:0}
+.hitit-course-logo{width:180px;height:64px;object-fit:cover;object-position:center;background:white}
+header nav{gap:18px;flex-wrap:wrap}header nav a{min-height:44px;display:inline-flex;align-items:center}
+h1,h2,.card h3{color:var(--navy)}
+.hero h1{font-size:clamp(2.5rem,4.8vw,4.2rem);letter-spacing:-.035em}
+.hero{padding-block:52px;gap:48px}.hero-aside{border-top:4px solid var(--hitit-burgundy)}
+.hero-aside h2{font-size:1.85rem;line-height:1.25}
+.button.primary{background:var(--navy);border-color:var(--navy);color:#fff}
+.card{border-top:3px solid #d6bbb8}.card:hover{border-top-color:var(--hitit-burgundy)}
+.simple-start{border-left-color:var(--hitit-gold);background:#faf7f0}
+.course-access{border:1px solid var(--line);border-top:4px solid var(--hitit-burgundy);border-radius:10px;background:#fff;padding:24px;margin:20px 0 36px}
+.access-heading{display:grid;grid-template-columns:130px minmax(0,1fr);gap:16px;align-items:center}
+.access-heading label{font-weight:700;color:var(--hitit-dark);font-size:14px}
+.access-heading select{min-width:0;width:100%;min-height:48px;padding:10px;background:#faf7f8;border:1px solid #b7a6a8;color:var(--navy);border-radius:6px}
+.access-links{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0}
+.access-links a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:9px 14px;border:1px solid #c7b6b9;border-radius:6px;color:var(--hitit-dark);font-size:14px;font-weight:600;text-decoration:none}
+.access-links a:first-child{background:var(--hitit-burgundy);color:#fff;border-color:var(--hitit-burgundy)}
+.access-links a:hover{background:#faeef1;color:var(--hitit-dark)}
+.access-note{font-size:13px;color:var(--muted);margin:14px 0 0}
+.course-module-map{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:20px 0 0}
+.course-module-map a{padding:10px;background:#faf4f5;border:1px solid #e7d8db;border-radius:6px;text-decoration:none;min-height:64px;color:var(--hitit-dark)}
+.course-module-map span{font-size:17px;font-weight:700;display:block}.course-module-map small{font-size:12px;color:var(--muted)}
+.course-module-map a:hover{background:#f4e6e9}
+footer{border-top:3px solid var(--hitit-gold)}
+:where(a,button,input,select,summary):focus-visible{outline:3px solid #087e9a;outline-offset:4px}
+@media(max-width:850px){header{gap:12px}.hero{gap:30px}header nav{width:100%;order:3}header #language{margin-left:auto}}
+@media(max-width:540px){.hitit-course-logo{width:140px;height:52px}header{padding-inline:20px}.brand>span{max-width:135px;font-size:13px}header nav{gap:4px 16px;font-size:13px}main{padding-inline:20px}.hero{padding-block:28px}.course-access{padding:17px}.access-heading{grid-template-columns:1fr;gap:6px}.access-links{display:grid;grid-template-columns:1fr 1fr}.access-links a{font-size:13px;padding:9px}.course-module-map{grid-template-columns:repeat(3,minmax(0,1fr))}.start-panel{margin-top:20px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation:none!important;transition:none!important}}
+@media print{.course-access,.course-switcher{display:none!important}body{border:0}}
