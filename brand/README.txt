@@ -1,0 +1,1 @@
+Official Hitit University artwork, unaltered. Source: https://hitit.edu.tr/tr/hitit/kurumsal-kimlik ; English logo archive https://hitit.edu.tr/KK/AIEN/PNG.rar ; Turkish https://hitit.edu.tr/KK/Logo/PNG.rar . Reused from the existing instructor course assets.
