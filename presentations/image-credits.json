@@ -1,0 +1,128 @@
+[
+  {
+    "week": 1,
+    "path": "assets/week-01.jpg",
+    "source": "https://www.archives.gov/milestone-documents/treaty-of-alliance-with-france",
+    "caption": "Treaty of Alliance with France (1778) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-004-big.jpg"
+  },
+  {
+    "week": 2,
+    "path": "assets/week-02.jpg",
+    "source": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+    "caption": "Louisiana Purchase Treaty (1803) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-018-big.jpg"
+  },
+  {
+    "path": "assets/louisiana-map.png",
+    "source": "https://commons.wikimedia.org/wiki/File:National-atlas-1970-1810-loupurchase.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/National-atlas-1970-1810-loupurchase.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original",
+    "caption": "Louisiana Purchase reference map showing the 1810 territorial configuration. National Atlas (1970), via Wikimedia Commons. Public domain. A later map, not an 1803 document."
+  },
+  {
+    "week": 3,
+    "path": "assets/week-03.jpg",
+    "source": "https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal",
+    "caption": "Jackson’s Message on Indian Removal (1830) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-025-big.jpg"
+  },
+  {
+    "week": 4,
+    "path": "assets/week-04.jpg",
+    "source": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+    "caption": "Emancipation Proclamation (1863) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-034-big.jpg"
+  },
+  {
+    "week": 5,
+    "path": "assets/week-05.jpg",
+    "source": "https://www.archives.gov/milestone-documents/joint-resolution-for-annexing-the-hawaiian-islands",
+    "caption": "Annexation of Hawai‘i Resolution (1898) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-054-big.jpg"
+  },
+  {
+    "week": 6,
+    "path": "assets/week-06.jpg",
+    "source": "https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany",
+    "caption": "War Message to Congress (1917) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-061-big.jpg"
+  },
+  {
+    "week": 7,
+    "path": "assets/week-07.jpg",
+    "source": "https://www.archives.gov/milestone-documents/president-franklin-roosevelts-annual-message-to-congress",
+    "caption": "Four Freedoms Address (1941) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-070-big.jpg"
+  },
+  {
+    "week": 8,
+    "path": "assets/week-08.jpg",
+    "source": "https://www.archives.gov/milestone-documents/truman-doctrine",
+    "caption": "Truman Doctrine (1947) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-081-big.jpg"
+  },
+  {
+    "week": 9,
+    "path": "assets/week-09.jpg",
+    "source": "https://www.archives.gov/milestone-documents/executive-order-10730",
+    "caption": "Executive Order 10730: Little Rock (1957) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-089-big.jpg"
+  },
+  {
+    "week": 10,
+    "path": "assets/week-10.jpg",
+    "source": "https://www.archives.gov/milestone-documents/executive-order-10924",
+    "caption": "Executive Order Establishing the Peace Corps (1961) — document image, U.S. National Archives.",
+    "kind": "document",
+    "image_url": "https://www.archives.gov/files/milestone-documents/images/doc-092-big.jpg"
+  },
+  {
+    "week": 11,
+    "path": "assets/week-11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:President_Richard_Nixon_and_Mao_Zedong.jpg",
+    "caption": "Nixon and Mao in Beijing, 1972. U.S. National Archives / Wikimedia Commons.",
+    "kind": "photo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/President_Richard_Nixon_and_Mao_Zedong.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"
+  },
+  {
+    "week": 12,
+    "path": "assets/week-12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan_shaking_hands_with_Mikhail_Gorbachev.jpg",
+    "caption": "Reagan and Gorbachev at the INF ratification ceremony, 1 June 1988. U.S. National Archives / Wikimedia Commons.",
+    "kind": "photo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/President_Ronald_Reagan_Shaking_Hands_with_Mikhail_Gorbachev_at_The_Signing_Ceremony_for_The_Ratification_of_Intermediate_Range_Nuclear_Forces_Inf_Treaty_-_DPLA_-_2d1cb3a9d814e0aeb71e1744410fc59a.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original"
+  },
+  {
+    "week": 13,
+    "path": "assets/week-13.png",
+    "source": "https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg3.pdf",
+    "caption": "Authorization for Force Against Iraq (1991) — first page of the official document.",
+    "kind": "document",
+    "image_url": "https://www.congress.gov/102/statute/STATUTE-105/STATUTE-105-Pg3.pdf"
+  },
+  {
+    "week": 14,
+    "path": "assets/week-14.png",
+    "source": "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.pdf",
+    "caption": "Authorization for Use of Military Force (2001) — first page of the official document.",
+    "kind": "document",
+    "image_url": "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.pdf"
+  },
+  {
+    "week": 15,
+    "path": "assets/week-15.png",
+    "source": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf",
+    "caption": "National Security Strategy (October 2022) — first page of the official document.",
+    "kind": "document",
+    "image_url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf"
+  }
+]
